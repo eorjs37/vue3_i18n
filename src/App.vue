@@ -1,6 +1,6 @@
 <template>
   <h1>
-    Hello Worlds
+    {{$t('hello')}}
   </h1>
 </template>
 
